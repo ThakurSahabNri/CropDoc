@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cropdoc</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="home">Home\n</string>
+    <string name="profile">Profile</string>
+    <string name="fertilizer_calculator">Fertilizer Calculator</string>
+    <string name="how_to_use">How To Use</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">User Name</string>
+    <string name="user_mail">User Mail</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+</resources>
